@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Theme Doors</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Hugo Theme Doors</description>
+    <title>Gallas Design</title>
+    <link>https://gallas-design.comg/</link>
+    <description>Recent content on Gallas Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Hugo Theme Doors</copyright>
+    <copyright>© Gallas Designs</copyright>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gallas-design.comg/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
