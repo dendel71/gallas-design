@@ -14,17 +14,17 @@ disable404 = true
 
 # Site information
 [params]
-description = "Gallas Design explores creative industrial art"
-ogimage = "images/work1.jpg"
+description = ""
+ogimage = ""
 
 # Project section
 [params.projects]
 
 [[params.projects.list]]
-title = "Name of the work 1"
-url = "#"
-description = "Describe your work summary"
-image = "images/work1.jpg"
+title = "Gallas Design"
+#url = ""
+description = "Exploring industrial creative home decor"
+image = "images/CandleHolder_01.jpeg"
 w = "780"
 h = "518"
 
@@ -32,35 +32,32 @@ h = "518"
 [params.subprojects]
 
 [[params.subprojects.list]]
-title = "The work 2"
+title = "Seasonal creations"
 url = "#"
-description = "Lorem ipsum dolor sit amet"
-image = "images/work2.jpg"
+description = "Holiday creations"
+image = "images/CandleHolder_11.jpeg"
 w = "780"
 h = "522"
 
 [[params.subprojects.list]]
-title = "The work 3"
+title = "The Candle Holders"
 url = "#"
-description = "Consectetur adipiscing elit"
-image = "images/work3.jpg"
+description = "Copper tubing Candle Holders"
+image = "images/CandleHolder_10.jpeg"
 w = "780"
-h = "518"
+h = "1380"
 
 [[params.subprojects.list]]
-title = "The work 4"
+title = "Latest project"
 url = "#"
-description = "Sed do eiusmod tempor incididunt"
-image = "images/work4.jpg"
+description = "Winter time"
+image = "images/CandleHolder_02.jpeg"
 w = "780"
-h = "518"
+h = "1380"
 
 # Contact section
 [params.contact]
-description = "I would like to hear from you. Please contact me via social media."
-#twitter = "#"
-facebook = "bla bla bla"
-instagram = "blablabla"
-#linkedin = "#"
-#github = ""
-#email = "#"
+description = "I would like to hear from you. Please contact me via Instagram."
+#facebook = "bla bla bla"
+instagram = "https://www.instagram.com/designgallas/"
+
