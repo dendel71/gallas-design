@@ -3,7 +3,7 @@
 baseurl = "https://gallas-design.comg/"
 languageCode = "en-us"
 title = "Gallas Design"
-copyright = "© Gallas Designs"
+copyright = "© Gallas Design"
 googleAnalytics = "UA-xxxxxxxx-x"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "hugo-theme-doors"
@@ -58,8 +58,9 @@ h = "518"
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via social media."
-twitter = "#"
-facebook = ""
-linkedin = "#"
-github = ""
-email = "#"
+#twitter = "#"
+facebook = "bla bla bla"
+instagram = "blablabla"
+#linkedin = "#"
+#github = ""
+#email = "#"
